@@ -1,0 +1,39 @@
+{
+   "main": {
+      "titleMain": "Ingeniero de Sistemas, graduado de la Universidad Cooperativa de Colombia",
+      "content": " Hola soy Jhonathan, soy un Ingeniero de Sistemas graduado en la UCC, me he caracterizado en el desarrollo de software y aquí te presentaré algunos de mis proyectos realizados y proyección"
+   },
+   "article": {
+      "article0": {
+         "date": "31 may 2022",
+         "title": "Aspectos tecnológicos necesarios para el diseño de un portal web que permita acceder a los recursos y servicios del observatorio de Economía Solidaria",
+         "detail": "Tuvo como objetivo principal “Establecer los aspectos tecnológicos necesarios para el diseño de un portal web que permita acceder a los recursos y servicios del observatorio de economía solidaria, garantizando la conservación y actualización permanente de la información”"
+      }
+   },
+   "works": {
+      "work0": {
+         "title": "Aplicación Upah",
+         "description": "Servicio para rutas turisticas",
+         "year": 2019,
+         "state": "Finalizado"
+      },
+      "work1": {
+         "title": "Observatorio de Economía solidaria",
+         "description": "Para el analisís de datos",
+         "year": 2021,
+         "state": "Finalizado"
+      },
+      "work2": {
+         "title": "Dyno Bot",
+         "description": "Ejecución de activos automaticamente",
+         "year": 2022,
+         "state": "Finalizado"
+      },
+      "work3": {
+         "title": "Too Sport",
+         "description": "Servicio de streaming",
+         "year": 2022,
+         "state": "Finalizado"
+      }
+   }
+}
