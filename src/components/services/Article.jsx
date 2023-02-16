@@ -5,7 +5,7 @@ const SkillsTec = (data) => {
     <div className="group relative flex flex-col items-start">
       <h2 className="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-800">
         <div className="absolute -inset-y-6 -inset-x-4 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-100/50 sm:-inset-x-6 sm:rounded-2xl"></div>
-        <a href="" target="noreferrer">
+        <a href="#" target="noreferrer">
           <span className="absolute -inset-y-6 -inset-x-4 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
           <span className="relative z-10"></span>
         </a>
@@ -33,6 +33,7 @@ const SkillsTec = (data) => {
                 width="32"
                 height="32"
                 className="h-7 w-7 rounded-full"
+                alt="image"
               />
             </div>
             <dl className="flex flex-auto flex-wrap gap-x-2">
