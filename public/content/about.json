@@ -35,5 +35,33 @@
          "year": 2022,
          "state": "Finalizado"
       }
+   },
+
+   "skills": {
+      "skill0": {
+         "title": "React",
+         "img": "https://cdn.worldvectorlogo.com/logos/react-1.svg",
+         "percentage": "Habilidad 60%"
+      },
+      "skill1": {
+         "title": "Node",
+         "img": "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png",
+         "percentage": "Habilidad 70%"
+      },
+      "skill2": {
+         "title": "Javascript y TS",
+         "img": "https://www.coretechs.com/wp-content/uploads/2020/12/js-ts.svg",
+         "percentage": "Habilidad 60%"
+      },
+      "skill3": {
+         "title": "HTML y CSS",
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png",
+         "percentage": "Habilidad 60%"
+      },
+      "skill4": {
+         "title": "MySQL, SQL",
+         "img": "https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png",
+         "percentage": "Habilidad 70%"
+      }
    }
 }
